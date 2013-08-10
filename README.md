@@ -1,5 +1,6 @@
-hydroelectric - a simple way to revise notes
-![Hydroelectric Logo](hydroelectric.png)
+## hydroelectric
+a simple way to revise notes
+![Hydroelectric Logo](hydroelectric-small.png)
 =================
 
 ## Description
