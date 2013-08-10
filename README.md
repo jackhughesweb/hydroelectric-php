@@ -1,9 +1,9 @@
 ## hydroelectric
 a simple way to revise notes
+
 ![Hydroelectric Logo](hydroelectric-small.png)
 
-Note: 
-
+### Please read 
 - **This application contains a lot of messy code and is in the process of being rewritten as a Ruby on Rails app instead of a PHP app heavily dependent on ajax**
 - **The heavy dependency on ajax has resulted in Hydroelectric not working in some browsers such as IE7**
 
