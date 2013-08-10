@@ -28,6 +28,4 @@ Since revision notes need to be accessed wherever a user is, Hydroelectric uses 
 
 ## License
 
-[![Creative Commons License](http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US)
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US).
+Hydroelectric is licensed under GPL v2 and this can be found in LICENSE.txt
