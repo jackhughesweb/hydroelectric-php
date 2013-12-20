@@ -7,7 +7,7 @@ a simple way to revise notes
 - **This application contains a lot of messy code and has been rewritten as a Ruby on Rails app instead of a PHP app heavily dependent on ajax**
 - **The heavy dependency on ajax has resulted in Hydroelectric not working in some browsers such as IE7**
 
-- **Hydroelectric is now called Pen Pencil Ruler and can be found at [www.penpencilruler.com](https://www.penpencilruler.com)**. The source code has not yet been released
+- **Hydroelectric is now called Pen Pencil Ruler and can be found at [github.com/jackhughesweb/penpencilruler](https://github.com/jackhughesweb/penpencilruler)**.
 
 ## Description
 
